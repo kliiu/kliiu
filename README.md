@@ -6,6 +6,10 @@
 - 💬 Ask me about anything [here](https://github.com/kliiu/kliiu/issues)
 
 
-![kliiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kliiu&show_icons=true&theme=shades-of-purple&include_all_commits)
+<!--![kliiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kliiu&show_icons=true&theme=shades-of-purple&include_all_commits&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kliiu&theme=shades-of-purple&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kliiu&theme=shades-of-purple&hide=scss&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kliiu&show_icons=true&theme=shades-of-purple&include_all_commits&hide_border=true" alt="kliiu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kliiu&theme=shades-of-purple&hide=scss&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
