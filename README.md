@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏫 I'm currently pursuing an undergraduate degree in Computer Science at Xihua University.
+- 🏫 I'm starting this fall to pursue a master's degree in information management at UIUC.
 
 - ❤️ A passionate progarmmer trying to improve my coding skills.
 
