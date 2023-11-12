@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏫 I'm starting this fall to pursue a master's degree in information management at UIUC.
+- 🏫 MSIM at UIUC.
 
 - 💬 Ask me about anything [here](https://github.com/kliiu/kliiu/issues)
 
