@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏫 MSIM at UIUC
+- 🏫 UIUC
 - 🍽️ I LOVE spicy food
 <!--![kliiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kliiu&show_icons=true&theme=shades-of-purple&include_all_commits&hide_border=true)
 
